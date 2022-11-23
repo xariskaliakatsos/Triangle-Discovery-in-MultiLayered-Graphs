@@ -1,29 +1,30 @@
-# Triangle-Discovery-in-MultiLayered-Networks
-This project regards triangle listing in graphs. More specifically, given a large set of relatively small graphs that correspond to the same set of nodes but in different time, the overall triangles are listed and sorted according to their frequency and the top-k triangles can be selected. Two datasets were analyzed containing 733 and 122 graphs, respectively and the algorithm that was implemented is **Node Iterator**. The project was contacted using the **Scala** programming language and the Apache **Spark** framework.
+# Triangle-Discovery-in-MultiLayered-Graphs
+Graphs with triangles are the focus of this work.
+To be more precise, given a huge collection of little graphs that correspond to the same set of nodes but at various times, the overall triangles are listed and ordered according to their frequency, and the top-k triangles may be chosen.The **Node Iterator** technique was applied to data sets of 733 and 122 graphs, respectively. The project was contacted using the **Scala** programming language and the Apache **Spark** framework.
 
 
 ## Table of Contents
 
-[0. Installation](https://github.com/vickypar/Triangle-Discovery-in-MultiLayered-Networks#0-installation)
+[0. Installation](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#0-installation)
 
-[1. About](https://github.com/vickypar/Triangle-Discovery-in-MultiLayered-Networks#1-about)
+[1. About](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#1-about)
 
-[2. Introduction](https://github.com/vickypar/Triangle-Discovery-in-MultiLayered-Networks#2-introduction)
+[2. Introduction](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#2-introduction)
 
-[3. Data](https://github.com/vickypar/Triangle-Discovery-in-MultiLayered-Networks#3-data)
+[3. Data](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#3-data)
 
-[4. Approach](https://github.com/vickypar/Triangle-Discovery-in-MultiLayered-Networks#4-approach)
+[4. Approach](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#4-approach)
 
-[5. Results](https://github.com/vickypar/Triangle-Discovery-in-MultiLayered-Networks#5-results)
+[5. Results](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#5-results)
 
 
 ## 0. Installation 
 
-The code requires Scala and the Apache Spark framework.
+The code requires Scala and Apache Spark.
 
 ## 1. About
 
-**Triangle Discovery in Multi-Layered Networks** is a project that was created as a semester Project in the context of “Mining from Massive Datasets” class.
+**Triangle Discovery in Multi-Layered Graphs** is a project that was created as a semester Project in the context of “Mining from Massive Datasets” class.
 MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki.
 
 ## 2. Introduction
