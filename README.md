@@ -25,7 +25,7 @@ The code requires Scala and Apache Spark.
 ## 1. About
 
 **Triangle Discovery in Multi-Layered Graphs** is a project that was created as a semester Project in the context of “Mining from Massive Datasets” class.
-MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki.
+MSc Data and Web Science, School of Informatics, Aristotle University of Thessaloniki. The project team conisted of me and Vasiliki Parousidou.
 
 ## 2. Introduction
 
