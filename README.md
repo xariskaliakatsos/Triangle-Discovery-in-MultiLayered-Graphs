@@ -5,7 +5,7 @@ To be more precise, given a huge collection of little graphs that correspond to 
 
 ## Table of Contents
 
-[0. Installation](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#0-installation)
+[0. Installation](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#-1 installation)
 
 [1. About](https://github.com/xariskaliakatsos/Triangle-Discovery-in-MultiLayered-Graphs#1-about)
 
